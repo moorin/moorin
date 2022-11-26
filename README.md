@@ -18,5 +18,7 @@
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></code>
 
-
-
+<h2>✏️ projects</h2>
+<h3>1. DB -> 외부 서버에 업로드(CRUD), json</h3>
+<h3>2. 공공데이터 포털 DB 저장후 Android App</h3>
+<h3>3. 웹 크롤링 (python)</h3>
