@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=열정을 담은 개발자 김혜린입니다.&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="열정을 담은 개발자 김혜린입니다."&fontSize=45" />
 
 <h2>Skills</h2>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
