@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#ffc7af&height=200&section=header&text=🔥열정을%20담은%20신입%20개발자%20입니다🔥&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🔥열정을%20담은%20신입%20개발자%20입니다🔥&fontSize=45" />
 <h3>외부 서버 DB에 데이터를 생성, 입력, 수정, 삭제할 수 있는 java 애플리케이션을 만들어봤습니다.</h3>
 <h3>공부한 기술을 실제 현업에서 적용시켜보고 싶고 웹 백엔드 전문가로 성장하고 싶습니다.</h3>
 
