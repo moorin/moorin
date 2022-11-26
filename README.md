@@ -23,24 +23,24 @@
 <h2>✏️ projects</h2>
 <h3>1. DB -> 외부 서버에 업로드(CRUD), json</h3>
 <p>
-  1) explain
-  2) explain
-  3) explain
+  1) explain <br>
+  2) explain <br>
+  3) explain <br>
 </p>
 <br>
 
 <h3>2. 공공데이터 포털 DB 저장후 Android App</h3>
 <p>
-  1) explain
-  2) explain
-  3) explain
+  1) explain <br>
+  2) explain <br>
+  3) explain <br>
 </p>
 <br>
 
 <h3>3. 웹 크롤링 (python)</h3>
 <p>
-  1) explain
-  2) explain
-  3) explain
+  1) explain <br>
+  2) explain <br>
+  3) explain <br>
 </p>
 <br>
