@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyerin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=혜린&fontSize=90" />
 
 <h2>Skills</h2>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
