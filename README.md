@@ -14,6 +14,7 @@
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></code>
 
 <code><img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/RestfulAPI-ff8b00?style=flat&logo=RestfulAPI&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></code>
