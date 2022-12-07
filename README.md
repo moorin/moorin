@@ -22,26 +22,27 @@
 <br>
 
 <h2>✏️ projects</h2>
-<h3>1. DB -> 외부 서버에 업로드(CRUD), json</h3>
+<h3>1. 3D 견적서 페이지 (닷홈 DB, jsp로 구현)</h3>
 <p>
-  1) explain <br>
-  2) explain <br>
+  1) CRUD 구현 <br>
+  2) 화면 만들기 <br>
   3) explain <br>
 </p>
 <br>
 
-<h3>2. 공공데이터 포털 DB 저장후 Android App</h3>
+<h3>2. 네이버 클로바 OCR API 사용한 OCR todo-list 웹앱 (닷홈 DB, jsp로 구현)</h3>
 <p>
-  1) explain <br>
-  2) explain <br>
-  3) explain <br>
+  1) json 이용한 restful API 사용해서 데이터 전달 <br>
+  2) mysql DB에 저장 <br>
+  3) 카카오 로그인 <br>
+  4) 모바일 화면 구현<br>
 </p>
 <br>
 
 <h3>3. 웹 크롤링 (python)</h3>
 <p>
-  1) explain <br>
-  2) explain <br>
+  1) 코드 설명 <br>
+  2) 지금 버전으로 돌아가게 만들기? <br>
   3) explain <br>
 </p>
 <br>
