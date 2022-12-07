@@ -32,6 +32,7 @@
 
 <h3>2. 네이버 클로바 OCR API 사용한 OCR todo-list 웹앱 (닷홈 DB, jsp로 구현)</h3>
 <p>
+  중요한 코드 올리고 설명
   1) json 이용한 restful API 사용해서 데이터 전달 <br>
   2) mysql DB에 저장 <br>
   3) 카카오 로그인 <br>
