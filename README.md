@@ -26,7 +26,8 @@
 <p>
   1) CRUD 구현 <br>
   2) 화면 만들기 <br>
-  3) explain <br>
+  3) SQL 만들기 <br>
+  4) 닷홈 호스팅 <br>
 </p>
 <br>
 
