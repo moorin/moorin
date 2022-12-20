@@ -31,7 +31,7 @@
 </p>
 <br>
 
-<h3>2. 네이버 클로바 OCR API 사용한 OCR todo-list 웹앱 (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현)</h3>
+<h3>2. 네이버 클로바 Speech API 사용한 Speech todo-list 웹앱 (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현)</h3>
 <p>
   중요한 코드 올리고 설명
   1) json 이용한 restful API 사용해서 데이터 전달 <br>
