@@ -21,30 +21,13 @@
 
 <br>
 
-<h2>✏️ projects</h2>
-<h3>1. 3D 견적서 페이지 (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현)</h3>
+<h3>네이버 클로바 Speech API 사용한 Speech todo-list 웹앱 </h3>
 <p>
-  1) CRUD 구현 <br>
-  2) 화면 만들기 <br>
-  3) SQL 만들기 <br>
-  4) 닷홈 호스팅 <br>
-</p>
-<br>
-
-<h3>2. 네이버 클로바 Speech API 사용한 Speech todo-list 웹앱 (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현)</h3>
-<p>
-  중요한 코드 올리고 설명
+  (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현) <br>
+  중요한 코드 올리고 설명 <br>
   1) json 이용한 restful API 사용해서 데이터 전달 <br>
   2) mysql DB에 저장 <br>
   3) 카카오 로그인 <br>
   4) 모바일 화면 구현<br>
-</p>
-<br>
-
-<h3>3. 웹 크롤링 (python)</h3>
-<p>
-  1) 코드 설명 <br>
-  2) 지금 버전으로 돌아가게 만들기? <br>
-  3) explain <br>
 </p>
 <br>
