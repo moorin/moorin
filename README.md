@@ -1,10 +1,4 @@
-<h1>제목</h1>
-<!-- 🔥열정을 담은 신입 개발자 입니다🔥 -->
-<h3>강점 or 설명</h3>
-<h3>공부한 기술을 실제 현업에서 적용시켜보고 싶고 웹 백엔드 전문가로 성장하고 싶습니다.</h3>
-
-<br>
-
+<h1>Java 전문가로 성장하고 싶습니다.</h1>
 <h2>✏️ skills</h2>
 <div height="30px"></div>
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/></code>
@@ -18,16 +12,67 @@
 <code><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></code>
-
 <br>
-
-<h3>네이버 클로바 Speech API 사용한 Speech todo-list 웹앱 </h3>
-<p>
-  (톰캣 있는 서버로 호스팅, 도메인 구매, DB 구현, jsp로 구현) <br>
-  중요한 코드 올리고 설명 <br>
-  1) json 이용한 restful API 사용해서 데이터 전달 <br>
-  2) mysql DB에 저장 <br>
-  3) 카카오 로그인 <br>
-  4) 모바일 화면 구현<br>
-</p>
 <br>
+<br>
+<h1>포트폴리오</h1>
+  
+<h2>1. ApplePicker</h2>
+URL: https://github.com/moorin/ApplePicker2
+<h4>앱 소개</h4>
+<ul>
+  <li>아날로그 일정을 디지털 일정으로 빠르게 바꿔주는 OCR앱 서비스</li>
+</ul>
+
+<h4>사용한 기술</h4>
+<ul>
+  <li>Android</li>
+  <li>Java</li>
+  <li>Restful API</li>
+  <li>HTTP 통신</li>
+  <li>Firebase 프레임워크 사용</li>
+  <li>Github 사용</li>
+  <li>네이버 클로바 OCR API 이용</li>
+</ul>
+
+
+<h2>2. Character Introduction(캐릭터 소개 페이지)</h2>
+URL: https://github.com/hyerin10/Character-Introduction
+<br>
+URL: http://moostar.dothome.co.kr/character_page.php?num=1
+<h4>핵심 기능</h4>
+<ul>
+  <li>캐릭터 시트 생성, 추가, 삭제, 수정</li>
+  <li>메모 생성, 추가, 삭제, 수정</li>
+  <li>날씨 이펙트</li>
+</ul>
+
+<h4>사용한 기술</h4>
+<ul>
+  <li>PHP</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>MySQL</li>
+  <li>dothome 웹호스팅</li>
+  <li>Github 사용</li>
+</ul>
+
+<h2>3. 3D 프린팅 도면 제출 폼 프로젝트</h2>
+URL: https://github.com/hyerin10/jsp_3D_drawing_submission_form
+<h4>핵심 기능</h4>
+<ul>
+  <li>도면 견적 제출(입력), 수정, 삭제</li>
+  <li>도면 견적 게시판</li>
+  <li>도면 견적 페이지</li>
+</ul>
+<h4>사용한 기술</h4>
+<ul>
+  <li>Java</li>
+  <li>JSP</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>MySQL</li>
+  <li>JSON형태로 출력</li>
+  <li>Github 사용</li>
+</ul>
